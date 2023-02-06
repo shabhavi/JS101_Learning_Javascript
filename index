@@ -1,0 +1,9 @@
+// 1st way
+
+let x=10; //declaring and assigning the value to it.
+console.log(x);
+
+//2nd way
+let a; //declare the variable.
+a=20; //assigning the value.
+console.log(a); //to print the variable's value.
